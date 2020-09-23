@@ -1,7 +1,6 @@
 ---
 layout: page
 title: cmck-xyz 
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 <ul class="posts">
